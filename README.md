@@ -10,7 +10,9 @@
 						
 ![Dih GitHub stats](https://github-readme-stats.vercel.app/api?username=Diholiver&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diholiver&layout=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diholiver&layout=compact)
+
+
 
 ## Technologies I use in my day
 						
