@@ -10,7 +10,8 @@
 						
 ![Dih GitHub stats](https://github-readme-stats.vercel.app/api?username=Diholiver&show_icons=true&theme=github_dark_dimmed)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diholiver&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diholiver&exclude_repo=github-readme-stats,diholiver.github.io)
+
 
 
 
